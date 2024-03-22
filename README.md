@@ -1,3 +1,8 @@
+<div align="center">
+    
+![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 <h1 align="center">Hi 👋, I'm Shachiru</h1>
 <h3 align="center">A Student of Software Engineer from Sri Lanka</h3>
 

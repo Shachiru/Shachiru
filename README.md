@@ -50,14 +50,6 @@ const shachiru = {
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-## 📊 Development Metrics
-```text
-🔧 Daily Development       ██████████░░ 80% 
-⚡ Code Efficiency         ███████████░ 90%
-🔒 System Design           █████████░░░ 70%
-📚 Learning Progress       ██████████░░ 85%
-```
-
 ## 📈 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shachiru&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">

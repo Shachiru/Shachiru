@@ -94,6 +94,6 @@ const shachiru = {
 </div>
 
 <div align="center">
-  <img src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://github.com/shachiru/shachiru/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 

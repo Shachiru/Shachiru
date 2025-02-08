@@ -67,8 +67,8 @@ OS         : Windows, Linux
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shachiru&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachiru&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
 ### 🏆 GitHub Trophies

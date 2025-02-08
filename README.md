@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Shachiru</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hw5EpV7hj3bBBh1EYY/giphy.gif" width="200"/>
+</p>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Web+Developer" alt="Typing SVG" /></a>
 </div>
@@ -12,7 +16,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shachiru&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 💫 About Me
+## 💫 About Me
 
 ```javascript
 const developer = {
@@ -25,7 +29,7 @@ const developer = {
 };
 ```
 
-### 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 <details>
 <summary>Frontend</summary>
@@ -55,7 +59,7 @@ const developer = {
 </p>
 </details>
 
-### 🔧 Development Environment
+## 🔧 Development Environment
 
 ```text
 IDE        : IntelliJ IDEA, VS Code
@@ -64,20 +68,20 @@ Tools      : Docker, Postman, Maven
 OS         : Windows, Linux
 ```
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shachiru&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachiru&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shachiru&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   
@@ -96,5 +100,4 @@ OS         : Windows, Linux
 <div align="center">
     
 ![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>

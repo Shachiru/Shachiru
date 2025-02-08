@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shachiru</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hw5EpV7hj3bBBh1EYY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
 
 <div align="center">

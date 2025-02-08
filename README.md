@@ -5,18 +5,18 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shachiru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shachiru&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 💫 About Me
 
 ```javascript
 const developer = {
-    name: "YourName",
+    name: "Shachiru",
     role: "Full Stack Developer",
     code: ["Java", "JavaScript", "HTML", "CSS"],
     architecture: ["Microservices", "MVC", "REST API"],
@@ -74,7 +74,7 @@ OS         : Windows, Linux
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shachiru&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ### 🤝 Connect With Me

@@ -95,6 +95,6 @@ OS         : Windows, Linux
 
 <div align="center">
     
-![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+![header](https://github.com/shachiru/shachiru/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>

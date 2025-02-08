@@ -94,5 +94,5 @@ OS         : Windows, Linux
 </div>
 
 <div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/shachiru/shachiru/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

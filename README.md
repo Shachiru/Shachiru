@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Hi, I'm Shachiru</h1>
 <h3 align="center">🚀 Full Stack Developer | ☁️ Cloud Enthusiast | 🎨 UI/UX Explorer</h3>
 
@@ -52,12 +51,11 @@ const shachiru = {
 </p>
 
 ## 📊 Development Metrics
-```text
+
 🔧 Daily Development       ██████████░░ 80% 
 ⚡ Code Efficiency         ███████████░ 90%
 🔒 System Design           █████████░░░ 70%
 📚 Learning Progress       ██████████░░ 85%
-```
 
 ## 📈 GitHub Analytics
 <p align="center">
@@ -109,4 +107,3 @@ const shachiru = {
 <div align="center">
   [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 </div>
-```

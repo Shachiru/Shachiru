@@ -105,6 +105,3 @@ const shachiru = {
   <img src="https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </div>
 
-<div align="center">
-  [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-</div>

@@ -51,11 +51,12 @@ const shachiru = {
 </p>
 
 ## 📊 Development Metrics
-
+```text
 🔧 Daily Development       ██████████░░ 80% 
 ⚡ Code Efficiency         ███████████░ 90%
 🔒 System Design           █████████░░░ 70%
 📚 Learning Progress       ██████████░░ 85%
+```
 
 ## 📈 GitHub Analytics
 <p align="center">

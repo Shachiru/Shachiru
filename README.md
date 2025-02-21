@@ -9,8 +9,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shachiru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Daily%20Coding-8%2B%20hrs-blue" alt="Coding Hours">
-  <img src="https://img.shields.io/badge/Commit%20Streak-100%2B%20days-blue" alt="Commit Streak">
 </div>
 
 ## 🧩 About Me

@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shachiru-rashmika-6b5761308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shachiru1234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/__rashmika.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://shachiru.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-3498DB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
   <a href="https://dev.to/shachiru"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>

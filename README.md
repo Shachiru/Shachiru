@@ -1,190 +1,235 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:000000&height=200&section=header&text=Shachiru&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
-</div>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;UI%2FUX+Explorer;Java+Specialist" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shachiru1234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/iam.shachiru?igsh=MWtiNHMzaW9nZWkxNg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://shachiru.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-3498DB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://dev.to/shachiru"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shachiru&label=Profile%20views&color=3498db&style=flat" alt="Profile Views" />
-</p>
+# 👋 Hello, I'm Shachiru
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
+
 </div>
 
-## 🎓 Education & Goals
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&animation=twinkling" />
+</div>
 
-```javascript
-const shachiru = {
-  education: "Software Engineering Student @ Institute of Java Software Engineer",
-  goal: "Seeking internship opportunities to apply my skills in a professional environment",
-  architectureInterests: ["Microservices", "Cloud-Native", "RESTful API Design"],
+---
+
+## 🎯 **About Me**
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  education: string;
+  goal: string;
+  technologies: {
+    backend: string[];
+    frontend: string[];
+    database: string[];
+    cloud: string[];
+    tools: string[];
+  };
+  architecture: string[];
+  currentFocus: string;
+  philosophy: string;
+}
+
+const shachiru: Developer = {
+  name: "Shachiru",
+  role: "Software Engineering Student",
+  location: "Sri Lanka 🇱🇰",
+  education: "Institute of Java Software Engineer",
+  goal: "Seeking software engineering internship opportunities",
+  technologies: {
+    backend: ["Java", "Spring Boot", "Node.js", "REST APIs"],
+    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
+    database: ["MySQL", "PostgreSQL", "MongoDB"],
+    cloud: ["AWS", "Docker"],
+    tools: ["Git", "GitHub", "Maven", "IntelliJ IDEA"]
+  },
+  architecture: ["Microservices", "Cloud-Native", "RESTful Design"],
   currentFocus: "Building scalable enterprise applications with Java & Spring",
-  philosophy: "Clean Code > Clever Code",
-  passions: ["UI/UX Design", "Performance Optimization", "Cloud Architecture"]
+  philosophy: "Clean Code > Clever Code 🎯"
 };
 ```
 
+---
+
+## 🚀 **Connect With Me**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shachiru1234)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://shachiru.github.io/my_portfolio/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A)](https://dev.to/shachiru)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/iam.shachiru?igsh=MWtiNHMzaW9nZWkxNg==)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shachiru&label=Profile%20Views&color=00d9ff&style=flat-square)
+
 </div>
 
-## 💻 Technical Expertise
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-      <br>Maven
-    </td>
-  </tr>
-</table>
+## 💼 **Tech Stack**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Frontend Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 </div>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shachiru&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</div>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shachiru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shachiru&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shachiru&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachiru&layout=compact&theme=algolia&hide_border=true" alt="Most Used Languages">
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachiru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shachiru&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shachiru&theme=algolia&hide_border=true" alt="GitHub Streak">
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</div>
-
-## 🚀 Professional Aspirations
-
-- 🎯 **Immediate Goal**: Secure a challenging software engineering internship
-- 🔍 **Technical Focus**: Java, Spring Boot, and cloud-native architecture
-- 📚 **Current Learning**: AWS Certified Solutions Architect curriculum
-- 🌱 **Soft Skills**: Developing team collaboration and agile methodology expertise
-- 💼 **Career Path**: Full Stack Development → Cloud Architecture → Technical Leadership
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-</div>
-
-## 🧠 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/Shachiru/e-commerce-platform">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shachiru&repo=e-commerce-platform&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/Shachiru/cloud-native-java-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shachiru&repo=cloud-native-java-app&theme=algolia&hide_border=true" />
-  </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shachiru&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-## 💬 Professional Quote
+---
+
+## 🏆 **Achievements**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=shachiru&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
+---
+
+## 🎯 **Professional Goals & Learning Path**
+
+<details>
+<summary><b>📈 Career Roadmap</b></summary>
+
+### **Immediate Goals (2024-2025)**
+- 🎯 **Primary**: Secure a software engineering internship
+- 📚 **Learning**: AWS Certified Solutions Architect
+- 🔧 **Building**: Advanced Spring Boot microservices
+- 👥 **Developing**: Team collaboration & Agile methodologies
+
+### **Medium-term Vision (1-3 Years)**
+- 🚀 **Role**: Full Stack Developer
+- ☁️ **Specialization**: Cloud-native applications
+- 🏗️ **Architecture**: Distributed systems design
+- 📊 **Focus**: Performance optimization & scalability
+
+### **Long-term Aspiration (3+ Years)**
+- 👨‍💼 **Leadership**: Technical Team Lead
+- 🏛️ **Architecture**: Solutions Architect
+- 📈 **Impact**: Mentoring junior developers
+- 🌐 **Expertise**: Enterprise-grade system design
+
+</details>
+
+<details>
+<summary><b>🧠 Current Learning Focus</b></summary>
+
+```mermaid
+graph TD
+    A[Core Java Mastery] --> B[Spring Boot Ecosystem]
+    B --> C[Microservices Architecture]
+    C --> D[Cloud Deployment AWS]
+    D --> E[DevOps Practices]
+    E --> F[System Design]
+    
+    G[Frontend Excellence] --> H[React Advanced Patterns]
+    H --> I[TypeScript Integration]
+    I --> J[Performance Optimization]
+    
+    K[Database Expertise] --> L[SQL Optimization]
+    L --> M[NoSQL Strategies]
+    M --> N[Data Architecture]
+```
+
+</details>
+
+---
+
+## 🛠️ **Featured Projects**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=shachiru&repo=e-commerce-platform&theme=tokyonight&hide_border=true)](https://github.com/shachiru/e-commerce-platform)
+[![Cloud Native Java App](https://github-readme-stats.vercel.app/api/pin/?username=shachiru&repo=cloud-native-java-app&theme=tokyonight&hide_border=true)](https://github.com/shachiru/cloud-native-java-app)
+
 </div>
+
+---
+
+## 📝 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 **Daily Developer Quote**
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3498db&height=120&section=footer" width="100%" />
+  
+### 💭 *"The best way to predict the future is to invent it."* - Alan Kay
+
+**⭐ Star my repositories if you find them useful!**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/shachiru">Shachiru</a></sub>
 </div>

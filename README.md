@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=shachiru&label=Profile%20views&color=3498db&style=flat" alt="Profile Views" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME)
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 </div>

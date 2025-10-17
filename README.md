@@ -1,417 +1,563 @@
 <div align="center">
 
-<!-- Dynamic Header with Daily Rotating Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=200&section=header&text=Shachiru%20Rashmika&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Network%20Engineer&descAlignY=55&descSize=18"/>
+<!-- 3D Animated Header -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<!-- 3D Robot Avatar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&height=100&lines=🤖+SHACHIRU;⚡+DEVELOPER;🚀+INNOVATOR">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&height=100&lines=🤖+SHACHIRU;⚡+DEVELOPER;🚀+INNOVATOR" />
+</picture>
+
+<!-- 3D Robot Character using ASCII Art with animation -->
+```
+    ╔═══════════════════════════════════════╗
+    ║     ⚡ FULL STACK ENGINEER 3000 ⚡     ║
+    ╚═══════════════════════════════════════╝
+              
+         ████████████████
+       ██░░░░░░░░░░░░░░░░██
+      ██░░▓▓▓▓░░░░▓▓▓▓░░░░██      
+     ██░░░▓▓▓▓░░░░▓▓▓▓░░░░░██     [ STATUS: ONLINE ]
+     ██░░░░░░░░██░░░░░░░░░░██     [ MODE: FULL STACK ]
+     ██░░░░████████████░░░░██     [ POWER: ∞ ]
+      ██░░░░░░░░░░░░░░░░░██
+       ████████░░████████
+      ██░░░░░░████░░░░░░░░██
+     ██░░░░░░██  ██░░░░░░░░██
+     ██░░░░░░██  ██░░░░░░░░██
+      ████████    ████████
+       ██  ██      ██  ██
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Final+Year+Software+Engineer+💻;Full+Stack+Developer+🚀;DevOps+%26+Cloud+Enthusiast+☁️;Network+Architect+🌐;Always+Learning%2C+Always+Building+⚡" alt="Typing Animation" />
+</p>
+
+<!-- Futuristic Social Badges -->
+<p align="center">
+  <a href="https://github.com/Shachiru">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/shachiru-rashmika">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shachiru@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=000000" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/shachiru">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00D9FF&labelColor=000000" alt="Twitter"/>
+  </a>
+</p>
+
+<!-- Animated Metrics Bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&reversal=false&textBg=false" width="100%"/>
 
 </div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Final+Year+Software+Engineering+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Network+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG"/>
-</p>
-
-<!-- Social Badges with Vector Icons -->
-<p align="center">
-  <a href="https://github.com/Shachiru">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/shachiru-rashmika">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shachiru@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/shachiru">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> SYSTEM PROFILE
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding Robot" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
-name: Shachiru Rashmika
-role: Software Engineering Student (Final Year)
-location: Sri Lanka
-focus:
-  - Full Stack Development
-  - DevOps & CI/CD
-  - Network Architecture
-  - Cloud Infrastructure
-currently_learning:
-  - Kubernetes & Container Orchestration
-  - Microservices Architecture
-  - Infrastructure as Code
-  - Advanced Network Security
-interests:
+╔════════════════════════════════════════╗
+║  ENGINEER SPECIFICATION v2.0          ║
+╚════════════════════════════════════════╝
+
+system:
+  name: "Shachiru Rashmika"
+  version: "Final Year Build"
+  location: "Sri Lanka 🇱🇰"
+  timezone: "UTC+5:30"
+  status: "⚡ Active Development"
+
+core_modules:
+  - Full Stack Engineering
+  - Cloud Architecture
+  - DevOps Automation  
+  - Network Infrastructure
   - System Design
-  - Cloud Native Technologies
-  - Network Optimization
-  - Automation & Scripting
+
+current_tasks:
+  - Kubernetes Orchestration
+  - Microservices Patterns
+  - Infrastructure as Code
+  - CI/CD Pipeline Optimization
+  - Cloud Native Architecture
+
+achievement_stats:
+  focus_level: "███████████░ 95%"
+  learning_rate: "████████████ 100%"
+  problem_solving: "██████████░░ 90%"
+  collaboration: "███████████░ 92%"
+
+fun_protocol:
+  message: "Debugging networks while others debug code! 🌐⚡"
+  coffee_dependency: true
+  sleep_mode: "Rarely activated 😄"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> TECH ARSENAL
 
-### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-### **DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
-
-### **Networking & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-</p>
-
-### **Tools & Version Control**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Automatically fetched pinned repositories -->
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shachiru&repo=DevOps-Pipeline-Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Shachiru/DevOps-Pipeline-Automation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shachiru&repo=Full-Stack-Microservices-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/Shachiru/Full-Stack-Microservices-App)
+### ⚡ Frontend Core
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br>Vue.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+</tr>
+</table>
+
+### 🔥 Backend Power
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br>Spring
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br>GCP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
+<br>Actions
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
+</td>
+</tr>
+</table>
+
+### 🗄️ Database Systems
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+</tr>
+</table>
+
+### 🛠️ Development Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+<br>GitLab
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+<br>Vim
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Dynamic Project Showcase with Auto-fetch -->
-<details>
-<summary><b>📦 More Projects & Language Stats</b></summary>
-<br>
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GITHUB ANALYTICS
 
 <div align="center">
 
-<!-- This will automatically show your recent repositories -->
-<a href="https://github.com/Shachiru?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shachiru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shachiru&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=00D9FF" alt="GitHub Streak"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shachiru&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shachiru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Shachiru&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Trophies"/>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32"> FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Shachiru/DevOps-Pipeline-Automation">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shachiru&repo=DevOps-Pipeline-Automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/Shachiru/Full-Stack-Microservices-App">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shachiru&repo=Full-Stack-Microservices-App&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
-</details>
-
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"> CURRENT OBJECTIVES
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shachiru&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shachiru&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shachiru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 What I'm Working On
 
 ```javascript
-const shachiru = {
-    currentFocus: "Final Year Project - Cloud-Native Microservices Platform",
-    lookingFor: "Full Stack Developer / DevOps Engineer Opportunities",
-    learning: [
-        "Kubernetes & Service Mesh",
-        "Microservices Architecture",
-        "System Design Patterns",
-        "Advanced Network Security"
-    ],
-    funFact: "I debug networks like others debug code! 🌐",
-    goals2024: [
-        "Graduate with honors 🎓",
-        "Contribute to open source 🚀",
-        "Master cloud architecture ☁️",
-        "Build production-grade systems 💻"
-    ],
-    askMeAbout: [
-        "Full Stack Development",
-        "DevOps & CI/CD practices",
-        "Network Architecture & Security",
-        "Cloud Infrastructure & IaC",
-        "System Design & Scalability"
-    ]
+const objectives = {
+  🎯 mission: "Building the future, one commit at a time",
+  
+  📚 learning_path: [
+    { skill: "Kubernetes & Service Mesh", progress: "████████░░ 80%" },
+    { skill: "System Design Patterns", progress: "███████░░░ 70%" },
+    { skill: "Cloud Architecture", progress: "████████░░ 85%" },
+    { skill: "Network Security", progress: "██████░░░░ 65%" }
+  ],
+  
+  🚀 goals_2024: {
+    graduate: "🎓 With Honors",
+    certifications: ["AWS SA", "CKA", "CCNA ✅"],
+    open_source: "Contribute to 10+ projects",
+    build: "Production-grade systems"
+  },
+  
+  💼 seeking: "Full Stack Developer / DevOps Engineer Roles",
+  
+  🤝 open_to: [
+    "Innovative Projects",
+    "Tech Collaborations", 
+    "Mentorship",
+    "Open Source Contributions"
+  ]
 };
+
+console.log("🤖 System Status: READY TO BUILD! 🚀");
 ```
+
+</div>
 
 ---
 
-## 🌟 Areas of Expertise
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="32"> EXPERTISE MATRIX
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Full Stack Development
-- Modern Web Applications (React, Vue, Next.js)
-- RESTful & GraphQL APIs
-- Responsive UI/UX Design
-- Database Design & Optimization
-- Authentication & Authorization
-- Microservices Architecture
+### 💻 Full Stack Engineering
+```
+✓ Modern Web Apps (React, Next.js, Vue)
+✓ RESTful & GraphQL APIs  
+✓ Real-time Applications (WebSockets)
+✓ Progressive Web Apps (PWA)
+✓ Server-Side Rendering (SSR)
+✓ Responsive UI/UX Design
+✓ State Management (Redux, Zustand)
+✓ Authentication & Authorization
+```
 
-</td>
-<td width="50%">
-
-### 🔧 DevOps & Automation
-- CI/CD Pipeline Implementation
-- Container Orchestration (Docker, K8s)
-- Infrastructure as Code (Terraform, Ansible)
-- Monitoring & Logging (Prometheus, Grafana)
-- Automated Deployment & Rollbacks
-- GitOps Workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Networking
-- Network Design & Architecture
-- Security & Firewall Configuration
-- Load Balancing & Traffic Management
-- VPN & Remote Access Solutions
-- Network Troubleshooting & Analysis
-- TCP/IP, DNS, DHCP Configuration
+### 🌐 Network Architecture
+```
+✓ Network Design & Implementation
+✓ Security & Firewall Configuration
+✓ Load Balancing & CDN
+✓ VPN & Remote Access
+✓ DNS, DHCP, TCP/IP
+✓ Network Monitoring & Analysis
+✓ Traffic Optimization
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud Infrastructure
-- Multi-cloud Deployment (AWS, Azure, GCP)
-- Serverless Architecture
-- Scalability & High Availability
-- Cost Optimization Strategies
-- Cloud Security Best Practices
-- Disaster Recovery & Backup
+### ☁️ Cloud & DevOps
+```
+✓ Multi-Cloud Deployment (AWS, Azure, GCP)
+✓ Container Orchestration (K8s, Docker)
+✓ CI/CD Pipeline Automation
+✓ Infrastructure as Code (Terraform)
+✓ Configuration Management (Ansible)
+✓ Monitoring (Prometheus, Grafana)
+✓ GitOps Workflows
+✓ Serverless Architecture
+```
+
+### 🗄️ Database & Systems
+```
+✓ SQL & NoSQL Databases
+✓ Database Optimization & Indexing
+✓ Data Modeling & Migration
+✓ Caching Strategies (Redis)
+✓ Backup & Disaster Recovery
+✓ High Availability Systems
+✓ Scalability Patterns
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shachiru&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
 
-## 🎯 Current Goals & Milestones
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32"> DEVELOPER PHILOSOPHY
 
 <div align="center">
-
-| Goal | Status | Target Date |
-|------|--------|-------------|
-| 🎓 Complete Final Year Project | 🟢 In Progress | Dec 2024 |
-| ☁️ AWS Solutions Architect Certification | 🟡 Studying | Q1 2025 |
-| 🐳 Kubernetes Administrator (CKA) | 🟡 Preparing | Q2 2025 |
-| 🌐 CCNA Certification | 🟢 Completed | ✅ |
-| 🚀 Contribute to 10 Open Source Projects | 🟡 5/10 | End 2024 |
-
-</div>
-
----
-
-## 🔥 My Development Philosophy
 
 ```python
-class Developer:
+class EngineerMindset:
     def __init__(self):
         self.name = "Shachiru Rashmika"
-        self.mindset = "Growth"
-        self.principles = [
-            "Write clean, maintainable code",
-            "Automate everything possible",
-            "Security is not optional",
-            "Document your work",
-            "Never stop learning"
-        ]
+        self.version = "2.0.25"
+        self.mindset = "Growth & Innovation"
+        
+    @property
+    def core_principles(self):
+        return {
+            "🎯 Code Quality": "Clean, maintainable, scalable",
+            "🔐 Security": "Always built-in, never bolted-on",
+            "📝 Documentation": "Code is read more than written",
+            "🤖 Automation": "Automate everything possible",
+            "📚 Learning": "Never stop growing",
+            "🤝 Collaboration": "Together we achieve more"
+        }
     
     def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code",
-            "🐛 Debug", 
-            "📚 Learn",
-            "🔄 Repeat"
+        routine = [
+            "☕ Fuel up with coffee",
+            "💻 Write elegant code",
+            "🐛 Hunt bugs like a pro",
+            "📚 Learn something new",
+            "🔄 Iterate and improve",
+            "🌟 Share knowledge"
         ]
+        return " → ".join(routine)
     
-    def approach_to_problems(self):
-        return "Break it down, build it up, optimize, and scale!"
+    def solve_problem(self, problem):
+        steps = [
+            "🔍 Understand the core issue",
+            "📊 Analyze possible solutions",
+            "⚡ Implement efficiently",
+            "🧪 Test thoroughly",
+            "🚀 Deploy with confidence",
+            "📈 Monitor and optimize"
+        ]
+        return f"Problem: {problem} | Approach: {' → '.join(steps)}"
+
+# Initialize Engineer
+engineer = EngineerMindset()
+print(engineer.solve_problem("Building scalable systems"))
 ```
 
----
-
-## 📚 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Microservices with Kubernetes
-- 🔒 Implementing Zero-Trust Network Architecture
-- ☁️ Cost Optimization Strategies for Cloud Infrastructure
-- 🐳 Docker Best Practices for Production Environments
-- 🌐 Advanced Load Balancing Techniques
-<!-- BLOG-POST-LIST:END -->
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="32"> CONNECT WITH ME
 
 <div align="center">
 
-I'm always interested in discussing **Full Stack Development**, **DevOps**, **Networking**, and **Cloud Technologies**!
+### 🤝 Let's Build Something Amazing Together!
 
-Feel free to reach out for:
-- 🤝 Collaboration on interesting projects
-- 💼 Job opportunities & internships
-- 🗣️ Tech discussions & knowledge sharing
-- 📚 Mentorship & learning together
-- 🎯 Open source contributions
+I'm always excited to discuss:
+- 💡 Innovative project ideas
+- 🚀 Latest tech trends
+- 🤖 System architecture
+- 🌐 DevOps best practices
+- ☁️ Cloud solutions
 
 <p>
   <a href="mailto:shachiru@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=000000" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/shachiru-rashmika">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/shachiru">
-    <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/FOLLOW_TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=00D9FF&labelColor=000000" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/Shachiru">
+    <img src="https://img.shields.io/badge/FOLLOW_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000" alt="GitHub"/>
   </a>
 </p>
 
-### 💬 Ask me about anything - I'm happy to help! 😊
+### 💬 "Questions? Ideas? Let's talk! I'm just a message away." 😊
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-30d74d44-6a2c-4f2e-8883-5a1310203fbb.png" width="32"> LATEST ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="32"> WISDOM OF THE DAY
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION ANIMATION
 
 <div align="center">
-  
-<!-- Light Mode -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Optional: Add the ocean themed gif version -->
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/ocean.gif" alt="github contribution grid snake animation" />
-
 </div>
 
 ---
 
-## 👀 Profile Views & Visitors
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Shachiru&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShachiru&label=VISITORS&countColor=%2358a6ff&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShachiru)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
+## 👁️ VISITOR ANALYTICS
 
 <div align="center">
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+![Profile Views](https://komarev.com/ghpvc/?username=Shachiru&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShachiru&label=VISITORS&countColor=%2300D9FF&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShachiru)
 
 </div>
 
@@ -419,10 +565,18 @@ Feel free to reach out for:
 
 <div align="center">
 
-### 🌟 "First, solve the problem. Then, write the code." – John Johnson
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-### ⭐ Star my repositories if you find them useful!
+### 🌟 If you find my work interesting, star my repos! ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+
+<!-- 3D Robot Footer -->
+```
+         ╔═══════════════════════════════════╗
+         ║  🤖 POWERED BY INNOVATION 2024  ║
+         ╚═══════════════════════════════════╝
+              ⚡ KEEP BUILDING ⚡
+```
 
 </div>

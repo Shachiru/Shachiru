@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Dynamic Header with Daily Rotating Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=200&section=header&text=Shachiru%20Rashmika&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20DevOps%20Enthusiast%20|%20Network%20Architect&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29&height=200&section=header&text=Shachiru%20Rashmika&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Network%20Engineer&descAlignY=55&descSize=18"/>
 
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Final+Year+Software+Engineering+Student;Full+Stack+Development+Enthusiast;DevOps+%26+Cloud+Architecture+Passionate;Network+Engineering+%26+Infrastructure;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Final+Year+Software+Engineering+Student;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Network+Architecture+Expert;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p>
 
 <!-- Social Badges with Vector Icons -->
@@ -162,7 +162,7 @@ interests:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shachiru&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
@@ -380,7 +380,16 @@ Feel free to reach out for:
 
 <div align="center">
   
-![Snake animation](https://github.com/Shachiru/Shachiru/blob/output/github-contribution-grid-snake.svg)
+<!-- Light Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Optional: Add the ocean themed gif version -->
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/ocean.gif" alt="github contribution grid snake animation" />
 
 </div>
 

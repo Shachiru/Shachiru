@@ -227,8 +227,6 @@ Building the foundation of **Shalvix** — a holding company incubating software
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-> ⚙️ **Note:** The snake is generated automatically via [GitHub Actions](.github/workflows/snake.yml). After pushing this repo, go to **Actions → Generate Snake Animation → Run workflow** to generate it for the first time.
-
 </div>
 
 ---

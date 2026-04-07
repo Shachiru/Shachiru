@@ -147,13 +147,11 @@ My journey has taken an exciting turn — beyond writing code, I'm actively tran
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shachiru&theme=tokyonight&column=6&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Shachiru&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" width="60%" alt="GitHub Stats" />
 
 </div>
 

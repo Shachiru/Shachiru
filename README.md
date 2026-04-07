@@ -1,28 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,50:1a1a2e,100:16213e&text=Shachiru%20Rashmika&fontSize=52&fontColor=58a6ff&stroke=58a6ff&strokeWidth=1&animation=fadeIn&fontAlignY=55&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Full-Stack%20%7C%20Mobile&descSize=16&descAlignY=75&descColor=8b949e" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+scalable+systems+%F0%9F%9A%80+%7C+Shipping+clean+code+%E2%9C%A8;Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%F0%9F%94%A7+%7C+Mobile+%F0%9F%93%B1+%7C+Full-Stack+%F0%9F%8C%90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20&text=Shachiru%20Rashmika&fontSize=56&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Intern%20%E2%80%A2%20Project%20Strategist&descSize=17&descAlignY=68&descColor=b2bec3" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/shachiru1234)
-[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149&labelColor=0d1117)](mailto:shachirurashmika35@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=7289da&labelColor=0d1117)](https://discord.com/users/shachiru)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117)](https://www.instagram.com/iam.shachiru)
-[![YouTube](https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=0d1117)](https://www.youtube.com/@shachirurashmika24)
-[![Behance](https://img.shields.io/badge/-Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1769ff&labelColor=0d1117)](https://www.behance.net/shachirkodithu)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=ea4c89&labelColor=0d1117)](https://dribbble.com/shachi_24)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25d366&labelColor=0d1117)](https://wa.me/qr/UNJZL2T237AEH1)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=👋+Hey+there!+Welcome+to+my+profile;🚀+Building+scalable+products+%26+leading+teams;💡+SE+Student+→+Intern+→+PM+in+progress..." />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shachiru&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&abbreviated=true)
-![Followers](https://img.shields.io/github/followers/Shachiru?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=58a6ff)
+<p>
+  <a href="https://www.linkedin.com/in/shachiru1234">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:shachirurashmika35@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/qr/UNJZL2T237AEH1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dribbble.com/shachi_24">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/shachirkodithu">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Shachiru&style=flat-square&color=6C63FF&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Shachiru?style=flat-square&color=6C63FF&labelColor=1a1a2e&logo=github&logoColor=white" />
 
 </div>
 
@@ -30,109 +40,180 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## 🧑‍💻 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%" valign="top">
 
-```javascript
-const shachiru = {
-  name:       "Shachiru Rashmika",
-  location:   "Sri Lanka 🇱🇰",
-  education:  "Final Year SE Student 🎓",
-  role:       "Software Engineer",
+Hello! I'm **Shachiru Rashmika**, a passionate **Software Engineering Student** at the **Institute of Java & Software Engineering (IJSE)** 🎓 and a current **Software Engineering Intern** gaining real-world experience building modern tech solutions.
 
-  focus: [
-    "Full-Stack Development",
-    "DevOps & Cloud Architecture",
-    "Mobile Development",
-  ],
+My journey has taken an exciting turn — beyond writing code, I'm actively transitioning into **Project Management** and exploring the world of **Business Information Systems (BIS)**, combining technical depth with strategic thinking to ship products that matter.
 
-  currentlyLearning: ["Rust", "K8s", "AI/ML"],
-  openTo:            "Internships & Full-time Roles ✅",
-  funFact:           "I debug with console.log 😄",
-};
-```
+- 📍 Based in **Sri Lanka** 🇱🇰
+- 🎓 Reading for my **BSc in Software Engineering** at IJSE
+- 💼 Currently an **SE Intern** working on real client projects
+- 📈 Moving into **Project Management & Business Information Systems**
+- 🔭 Building [PersonaGen](#-current-projects), [Shalvix](#-current-projects) & more
+- 🤝 Open to **collaborations, internships & full-time roles**
+- ⚡ Fun fact: I treat Figma like a dev environment 😄
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+
+<br/><br/>
+
+```text
+💻  Code        ████████████░░  80%
+📐  Design      ████████░░░░░░  55%
+📊  Strategy    ██████░░░░░░░░  45%
+☁️  Cloud       ███████░░░░░░░  50%
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Shachiru&mode=daily&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=f85149&currStreakLabel=C9D1D9&sideLabels=8b949e&dates=8b949e" />
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🔧 Backend & Full-Stack (MERN)
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🎨 Design & Management Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shachiru&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Shachiru&mode=daily&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=f85149&currStreakLabel=c9d1d9&sideLabels=8b949e" width="49%" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shachiru&layout=donut&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shachiru&radius=6&theme=github-compact&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f3a5f" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shachiru&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shachiru&radius=6&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF" width="55%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=Shachiru&theme=algolia&column=7&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shachiru&theme=tokyonight&column=6&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## 🚀 Current Projects
 
-<div align="center">
+<table>
+<tr>
 
-### ◈ Languages
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,py,cs,dart,kotlin,go,rust&theme=dark&perline=9" />
+### 🧬 PersonaGen
+> **AI-Powered Web Page Builder**
 
-### ◈ Frontend
+A smart, drag-and-drop webpage builder that uses AI to generate personalized layouts and content from prompts. Designed to lower the barrier for anyone to create a professional web presence — fast.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,html,css,jquery&theme=dark&perline=9" />
+**Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### ◈ Backend
+**Status:** `🟡 In Development`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,laravel,graphql,fastapi&theme=dark&perline=8" />
+</td>
 
-### ◈ Mobile
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark&perline=4" />
+### ☁️ Vertex AI Group Project
+> **MLOps Pipeline on GCP**
 
-### ◈ Cloud & Databases
+A collaborative university capstone project building an end-to-end Machine Learning Operations (MLOps) pipeline on **Google Cloud Vertex AI** — covering data ingestion, model training, deployment, and monitoring at scale.
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,postgres,mongodb,redis,firebase&theme=dark&perline=8" />
+**Stack:**
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### ◈ DevOps & Infrastructure
+**Status:** `🟢 Active`
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,nginx,linux,git,terraform&theme=dark&perline=8" />
+</td>
 
-### ◈ Design & Tools
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=figma,notion,jira,vscode,idea,postman,grafana&theme=dark&perline=7" />
+### 🏢 Shalvix
+> **Tech Holding Company**
 
-</div>
+Building the foundation of **Shalvix** — a holding company incubating software products and digital services. This is where engineering meets entrepreneurship: strategy, branding, product development under one roof.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion)
+
+**Status:** `🔵 Bootstrapping`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -141,55 +222,57 @@ const shachiru = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/pacman-contribution-graph.svg" />
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4y9r6p1a6emg5vxf9ow6uj3nl&unique=true&width=580&count=3)](https://open.spotify.com/user/4y9r6p1a6emg5vxf9ow6uj3nl)
+> ⚙️ **Note:** The snake is generated automatically via [GitHub Actions](.github/workflows/snake.yml). After pushing this repo, go to **Actions → Generate Snake Animation → Run workflow** to generate it for the first time.
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote
+## 🎵 Currently Vibing To
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4y9r6p1a6emg5vxf9ow6uj3nl&unique=true&width=550&count=3)](https://open.spotify.com/user/4y9r6p1a6emg5vxf9ow6uj3nl)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
+
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Amazing
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<p>Whether you want to collaborate on a project, talk tech, or just say hi — my inbox is always open! 🙌</p>
 
 <a href="https://www.linkedin.com/in/shachiru1234">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:shachirurashmika35@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drop_Me_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://wa.me/qr/UNJZL2T237AEH1">
-  <img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a2e,100:16213e&section=footer&reversal=false&fontColor=58a6ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer&reversal=false" />
 
 </div>

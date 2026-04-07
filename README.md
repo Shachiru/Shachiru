@@ -1,19 +1,19 @@
+# Shachiru Rashmika
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Shachiru%20Rashmika&fontSize=40&fontAlignY=35" alt="header" />
 </div>
 
-<h3 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Software+Engineer;DevOps+Engineer;Mobile+Developer" alt="Typing SVG" />
-</h3>
+</p>
 
-###
-
+<br>
 <p align="center">
   🚀 Final Year Software Engineering Student | Full-Stack Developer | Tech Enthusiast
 </p>
 
-###
-
+<br>
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -55,99 +55,106 @@
   </a>
 </div>
 
-###
-
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shachiru.Shachiru&left_color=royalblue&right_color=black&left_text=Profile%20Views" alt="visitor badge" />
 </div>
 
-###
+<br>
 
 ## 💻 Tech Stack
 
 ### Languages
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,java,py,csharp,dart,kotlin,go,rust" height="50" alt="languages" />
 </div>
 
 ### Frontend Development
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,html,jquery" height="50" alt="frontend" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook" />
 </div>
 
 ### Backend Development
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,django,laravel,spring" height="50" alt="backend" />
 </div>
 
 ### Mobile Development
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" height="50" alt="mobile" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="android" />
 </div>
 
 ### Database & Cloud
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://skillicons.dev/icons?i=aws,azure,googlecloud" height="50" alt="cloud" />
 </div>
 
 ### DevOps & Tools
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,nginx,linux" height="50" alt="devops" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="50" alt="gradle" />
 </div>
 
 ### Design Tools
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="50" alt="gimp" />
 </div>
 
 ### Development Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="50" alt="datagrip" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" alt="eslint" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" alt="yarn" />
 </div>
 
 ### Other Tools
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50" alt="notion" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="markdown" />
-  <img width="12" />
+  <img width="12" alt="" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain.svg" height="50" alt="gitter" />
 </div>
 
-###
-
+<br>
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -167,8 +174,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shachiru&radius=16&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" height="320" alt="activity graph" />
 </div>
 
-###
-
+<br>
 ## 🎮 Contribution Activity
 
 <picture>
@@ -177,8 +183,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shachiru/Shachiru/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
+<br>
 ## 🎵 Now Playing
 
 <div align="center">
@@ -187,8 +192,7 @@
   </a>
 </div>
 
-###
-
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="footer wave" />
 </div>
